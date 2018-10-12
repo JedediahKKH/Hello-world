@@ -1,2 +1,2 @@
 # Hello-world
-asdfgh
+Github sample hello world tutorial
